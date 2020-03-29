@@ -23,13 +23,14 @@ Put the raw data (csv, xls, pdf) in a folder called `data` in this folder, and p
 
 Write up at least one or up to three findings from your analysis based on the data you found.
 
-- Finding 1
-- Finding 2
-- Finding 3
+- Finding 1: The manufacturing sector data showed the overtime hours were not reduced for manufacturing jobs on a national level just yet. The President of the National Manufacturing Association of Texas clarified the findings by explaining it was because companies were cushioned when they diversified their supply chain after the trade wars caused increased tariffs from China. So when China's manufacturing lines stopped, companies were already importing from suppliers other than China. Diversifying the supply chain added cushion of time when supply was haulted. 
+- Finding 2: The Jobless Claims data released by the BLS end of March indicated that unemployment spiked higher than the 2008 economic crash. The expert from the manufacturing association noted that manufactruing jobs were within those statistics. 
+- Finding 3: The insight from a real company revlead that companies waiting for inventory from china were 3 weeks behind on their shipment. If those companies did not receive their shipments by mid April, contracts would be affected and the company would have to lay off employees. 
 
-Who are some potential human sources you could reach out to for more info?
+### Who are some potential human sources you could reach out to for more info?
 
-What is the maximum (best) story possible? What's the minimum (fallback) story if your hypothesis doesn't prove out?
+Associations for manufacturers, US manufacturing companies. 
+
 
 ## How to publish and submit your project
 
