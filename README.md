@@ -30,7 +30,7 @@ Write up at least one or up to three findings from your analysis based on the da
 
 ### Who are some potential human sources you could reach out to for more info?
 
-Associations for manufacturers, US manufacturing companies. 
+Associations for manufacturers, US manufacturing companies and economists. 
 
 
 
